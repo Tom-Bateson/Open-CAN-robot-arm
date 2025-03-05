@@ -1,0 +1,8 @@
+/venv
+/.idea
+**/*.log
+**/__pycache__
+
+build/
+dist/
+motor_tuning/
